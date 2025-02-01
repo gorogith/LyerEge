@@ -36,11 +36,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. Controls:
-   - ↑/↓: Navigate between wallets
-   - ←/→: Change pages
-   - Q: Exit program
-
 ## Features Explained
 
 ### Auto Ping
